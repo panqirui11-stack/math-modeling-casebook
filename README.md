@@ -29,6 +29,7 @@ min Σ_i w_i · min_j d(i, j)
 ## 快速开始
 
 ```bash
+python -m pip install -e .
 python -m modeling_casebook.demo
 python -m unittest discover -s tests -v
 ```
